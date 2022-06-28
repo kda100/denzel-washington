@@ -117,4 +117,8 @@ img {
     .img-container {
         margin-bottom: 20px;
     }
+
+    img {
+        max-height: 450px;
+    }
 }
