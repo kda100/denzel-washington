@@ -121,4 +121,8 @@ img {
     img {
         max-height: 450px;
     }
+
+    section {
+        scroll-margin-top: 180px;
+    }
 }
