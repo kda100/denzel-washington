@@ -103,8 +103,12 @@ img {
         padding: 0 1%;
     }
 
+    .nav-link {
+        font-size: 1.25rem;
+    }
+
     h1 {
-        font-size: 3.5rem;
+        font-size: 3rem;
     }
 
     h2 {
